@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Levels/FPSLevel.umap"
+			]
+		}
+	]
+}

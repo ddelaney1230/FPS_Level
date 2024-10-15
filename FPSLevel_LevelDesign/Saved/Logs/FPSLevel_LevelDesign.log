@@ -2196,3 +2196,704 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.10.15-13.27.52:273][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.19 sec)
 [2024.10.15-13.27.52:274][987]AssetCheck: New page: Asset Save: FPSLevel
 [2024.10.15-13.27.52:274][987]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/FPSLevel.FPSLevel
+[2024.10.15-13.44.10:282][ 62]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Oculus Virtual Audio Device), InstanceID=1
+[2024.10.15-13.44.10:572][ 62]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4792
+[2024.10.15-13.44.11:907][ 66]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bc1e3f4d-c97f-4bd8-a5b3-335dea9833ab}, Name=Headphones (Oculus Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1044.32
+[2024.10.15-13.44.11:907][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.15-13.44.11:909][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.15-13.46.40:051][511]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=DELL U2419H (NVIDIA High Definition Audio), InstanceID=1
+[2024.10.15-13.46.40:269][511]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4792
+[2024.10.15-13.46.41:270][514]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f4c3afe9-581a-4ec5-850e-16225458ee4a}, Name=DELL U2419H (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=903.51
+[2024.10.15-13.46.41:270][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.15-13.46.41:272][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.15-13.47.13:390][890]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.10.15-13.47.13:390][890]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.10.15-13.47.13:390][890]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_18
+[2024.10.15-13.47.15:899][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.10.15-13.47.15:899][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.10.15-13.47.15:900][138]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_19
+[2024.10.15-13.47.16:170][156]Cmd: DELETE
+[2024.10.15-13.47.16:170][156]Cmd: ACTOR DELETE
+[2024.10.15-13.47.16:172][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.15-13.47.16:188][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.10.15-13.47.16:190][156]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.10.15-13.47.27:808][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-13.47.27:808][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-13.47.27:808][173]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_20
+[2024.10.15-13.47.28:869][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-13.47.28:869][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-13.47.28:870][276]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_21
+[2024.10.15-13.47.55:255][894]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-13.48.28:440][301]Cmd: TRANSACTION UNDO
+[2024.10.15-13.48.28:440][301]LogEditorTransaction: Undo Set Scale
+[2024.10.15-13.49.14:409][980]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.14:409][980]LogEditorTransaction: Undo Move Elements
+[2024.10.15-13.49.14:626][984]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.14:626][984]LogEditorTransaction: Undo Set Scale
+[2024.10.15-13.49.14:782][986]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.14:782][986]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.15-13.49.15:018][990]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.15:018][990]LogEditorTransaction: Undo Set Scale
+[2024.10.15-13.49.15:413][ 29]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.15:413][ 29]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.15-13.49.15:850][ 68]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.15:850][ 68]LogEditorTransaction: Undo Set Scale
+[2024.10.15-13.49.16:294][111]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.16:294][111]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.15-13.49.16:650][142]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.16:650][142]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.15-13.49.20:390][519]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.20:390][519]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.15-13.49.22:250][655]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.22:250][655]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.15-13.49.22:618][687]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.22:618][687]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.15-13.49.23:061][726]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.23:061][726]LogEditorTransaction: Undo Move Elements
+[2024.10.15-13.49.23:515][771]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.23:515][771]LogEditorTransaction: Undo Scale Elements
+[2024.10.15-13.49.24:118][829]Cmd: TRANSACTION UNDO
+[2024.10.15-13.49.24:118][829]LogEditorTransaction: Undo Scale Elements
+[2024.10.15-13.49.54:167][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.10.15-13.49.54:176][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/FPSLevel_Auto3
+[2024.10.15-13.49.54:176][487]LogSavePackage: Moving '../../../../../../Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Saved/FPSLevel_Auto34BC6683B4DC64AE5C04B5580D9F03849.tmp' to '../../../../../../Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Saved/Autosaves/Game/Levels/FPSLevel_Auto3.umap'
+[2024.10.15-13.49.54:177][487]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Saved/Autosaves/Game/Levels/FPSLevel_Auto3.umap is in the /Temp path, will not scan.
+[2024.10.15-13.49.54:177][487]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Levels/FPSLevel_Auto3 is in the /Temp path, will not scan.
+[2024.10.15-13.49.54:177][487]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Levels/FPSLevel_Auto3 is in the /Temp path, will not scan.
+[2024.10.15-13.49.54:177][487]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/FPSLevel' took 0.024
+[2024.10.15-13.49.54:177][487]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2024.10.15-13.49.54:177][487]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.10.15-13.49.54:177][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.10.15-13.49.54:187][487]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3
+[2024.10.15-13.49.54:187][487]LogSavePackage: Moving '../../../../../../Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Saved/BP_FirstPersonCharacter_Auto3977978D74E60877385166DBAE42E43FE.tmp' to '../../../../../../Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3.uasset'
+[2024.10.15-13.49.54:188][487]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.10.15-13.50.49:754][ 23]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.10.15-13.50.52:690][308]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.10.15-13.50.54:768][502]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.10.15-13.50.56:077][632]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-13.50.56:082][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-13.50.56:082][632]PIE: New page: PIE session: FPSLevel (Oct 15, 2024, 5:50:56 AM)
+[2024.10.15-13.50.56:082][632]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-13.50.56:084][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001916s)
+[2024.10.15-13.50.56:084][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FPSLevel.FPSLevel to /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel (0.001953s)
+[2024.10.15-13.50.56:097][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.10.15-13.50.56:099][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-13.50.56:099][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-13.50.56:099][632]LogAIModule: Creating AISystem for world FPSLevel
+[2024.10.15-13.50.56:100][632]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2024.10.15-13.50.56:100][632]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.10.15-13.50.56:100][632]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-13.50.56:100][632]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-13.50.56:100][632]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-13.50.56:100][632]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-13.50.56:100][632]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.15-13.50.56:100][632]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-13.50.56:100][632]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.15-13.50.56:100][632]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-13.50.56:100][632]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-13.50.56:100][632]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-13.50.56:100][632]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-13.50.56:102][632]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-13.50.56:133][632]LogAudioMixer: Display: Using Audio Hardware Device DELL U2419H (NVIDIA High Definition Audio)
+[2024.10.15-13.50.56:134][632]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-13.50.56:134][632]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-13.50.56:134][632]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-13.50.56:135][632]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.10.15-13.50.56:135][632]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.10.15-13.50.56:136][632]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.10.15-13.50.56:136][632]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.10.15-13.50.56:136][632]LogInit: FAudioDevice initialized with ID 11.
+[2024.10.15-13.50.56:136][632]LogAudio: Display: Audio Device (ID: 11) registered with world 'FPSLevel'.
+[2024.10.15-13.50.56:136][632]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.10.15-13.50.56:139][632]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.15-13.50.56:140][632]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel up for play (max tick rate 0) at 2024.10.15-09.50.56
+[2024.10.15-13.50.56:140][632]LogWorld: Bringing up level for play took: 0.000678
+[2024.10.15-13.50.56:142][632]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.10.15-13.50.56:144][632]PIE: Server logged in
+[2024.10.15-13.50.56:144][632]PIE: Play in editor total start time 0.063 seconds.
+[2024.10.15-13.50.59:617][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-13.50.59:617][975]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-13.50.59:617][975]LogWorld: UWorld::CleanupWorld for FPSLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-13.50.59:618][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-13.50.59:623][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-13.50.59:627][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-13.50.59:639][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-13.50.59:639][975]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.10.15-13.50.59:639][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.10.15-13.50.59:641][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.10.15-13.50.59:647][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.10.15-13.50.59:698][976]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.10.15-13.51.04:470][424]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-13.52.21:275][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-13.52.21:275][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-13.52.21:276][937]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_22
+[2024.10.15-13.52.22:181][ 22]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-13.52.22:181][ 22]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-13.52.22:182][ 22]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_23
+[2024.10.15-13.52.25:072][313]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Addition to navoctree)
+[2024.10.15-13.52.25:161][321]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Remove from navoctree)
+[2024.10.15-13.52.25:578][358]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Addition to navoctree)
+[2024.10.15-13.52.25:591][359]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_23.StaticMeshComponent0, from: Remove from navoctree)
+[2024.10.15-13.52.33:501][113]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-13.52.51:278][758]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-13.53.08:283][352]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2024.10.15-13.53.08:681][390]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2024.10.15-13.53.12:475][745]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-13.53.12:479][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-13.53.12:479][745]PIE: New page: PIE session: FPSLevel (Oct 15, 2024, 5:53:12 AM)
+[2024.10.15-13.53.12:506][745]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-13.53.12:508][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001880s)
+[2024.10.15-13.53.12:508][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FPSLevel.FPSLevel to /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel (0.001921s)
+[2024.10.15-13.53.12:522][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.10.15-13.53.12:523][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-13.53.12:525][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-13.53.12:525][745]LogAIModule: Creating AISystem for world FPSLevel
+[2024.10.15-13.53.12:525][745]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2024.10.15-13.53.12:525][745]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.10.15-13.53.12:525][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-13.53.12:525][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-13.53.12:525][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-13.53.12:525][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-13.53.12:525][745]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.15-13.53.12:525][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-13.53.12:525][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.15-13.53.12:525][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-13.53.12:526][745]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-13.53.12:526][745]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-13.53.12:526][745]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-13.53.12:528][745]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-13.53.12:557][745]LogAudioMixer: Display: Using Audio Hardware Device DELL U2419H (NVIDIA High Definition Audio)
+[2024.10.15-13.53.12:557][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-13.53.12:557][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-13.53.12:557][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-13.53.12:558][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.10.15-13.53.12:558][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.10.15-13.53.12:559][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.10.15-13.53.12:559][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.10.15-13.53.12:559][745]LogInit: FAudioDevice initialized with ID 12.
+[2024.10.15-13.53.12:559][745]LogAudio: Display: Audio Device (ID: 12) registered with world 'FPSLevel'.
+[2024.10.15-13.53.12:559][745]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.10.15-13.53.12:563][745]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.15-13.53.12:563][745]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel up for play (max tick rate 0) at 2024.10.15-09.53.12
+[2024.10.15-13.53.12:564][745]LogWorld: Bringing up level for play took: 0.000704
+[2024.10.15-13.53.12:565][745]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.10.15-13.53.12:567][745]PIE: Server logged in
+[2024.10.15-13.53.12:568][745]PIE: Play in editor total start time 0.089 seconds.
+[2024.10.15-13.53.19:986][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-13.53.19:986][497]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-13.53.19:986][497]LogWorld: UWorld::CleanupWorld for FPSLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-13.53.19:986][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-13.53.19:991][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-13.53.19:995][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-13.53.20:008][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-13.53.20:008][497]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.10.15-13.53.20:008][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.10.15-13.53.20:010][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.10.15-13.53.20:016][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.10.15-13.53.20:083][498]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.10.15-13.53.22:923][782]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-13.56.52:577][769]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-13.56.52:582][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-13.56.52:582][769]PIE: New page: PIE session: FPSLevel (Oct 15, 2024, 5:56:52 AM)
+[2024.10.15-13.56.52:614][769]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-13.56.52:616][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001942s)
+[2024.10.15-13.56.52:616][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FPSLevel.FPSLevel to /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel (0.001987s)
+[2024.10.15-13.56.52:631][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.10.15-13.56.52:633][769]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-13.56.52:633][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-13.56.52:634][769]LogAIModule: Creating AISystem for world FPSLevel
+[2024.10.15-13.56.52:634][769]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2024.10.15-13.56.52:634][769]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.10.15-13.56.52:634][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-13.56.52:634][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-13.56.52:634][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-13.56.52:634][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-13.56.52:634][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.15-13.56.52:634][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-13.56.52:634][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.15-13.56.52:634][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-13.56.52:635][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-13.56.52:635][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-13.56.52:635][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-13.56.52:637][769]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-13.56.52:668][769]LogAudioMixer: Display: Using Audio Hardware Device DELL U2419H (NVIDIA High Definition Audio)
+[2024.10.15-13.56.52:669][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-13.56.52:669][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-13.56.52:669][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-13.56.52:669][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.10.15-13.56.52:669][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.10.15-13.56.52:671][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.10.15-13.56.52:671][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.10.15-13.56.52:671][769]LogInit: FAudioDevice initialized with ID 13.
+[2024.10.15-13.56.52:671][769]LogAudio: Display: Audio Device (ID: 13) registered with world 'FPSLevel'.
+[2024.10.15-13.56.52:671][769]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.10.15-13.56.52:674][769]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.15-13.56.52:675][769]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel up for play (max tick rate 0) at 2024.10.15-09.56.52
+[2024.10.15-13.56.52:675][769]LogWorld: Bringing up level for play took: 0.000708
+[2024.10.15-13.56.52:677][769]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.10.15-13.56.52:679][769]PIE: Server logged in
+[2024.10.15-13.56.52:680][769]PIE: Play in editor total start time 0.098 seconds.
+[2024.10.15-13.56.55:614][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-13.56.55:614][ 60]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-13.56.55:614][ 60]LogWorld: UWorld::CleanupWorld for FPSLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-13.56.55:614][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-13.56.55:620][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-13.56.55:624][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-13.56.55:637][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-13.56.55:637][ 60]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.10.15-13.56.55:637][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.15-13.56.55:639][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.15-13.56.55:645][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.10.15-13.56.55:720][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.10.15-13.57.07:987][172]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-13.57.07:991][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-13.57.07:991][172]PIE: New page: PIE session: FPSLevel (Oct 15, 2024, 5:57:07 AM)
+[2024.10.15-13.57.08:024][172]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-13.57.08:026][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001884s)
+[2024.10.15-13.57.08:026][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FPSLevel.FPSLevel to /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel (0.001927s)
+[2024.10.15-13.57.08:039][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.10.15-13.57.08:042][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-13.57.08:042][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-13.57.08:042][172]LogAIModule: Creating AISystem for world FPSLevel
+[2024.10.15-13.57.08:042][172]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2024.10.15-13.57.08:042][172]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.10.15-13.57.08:042][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-13.57.08:042][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-13.57.08:042][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-13.57.08:042][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-13.57.08:042][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.15-13.57.08:042][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-13.57.08:042][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.15-13.57.08:042][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-13.57.08:042][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-13.57.08:043][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-13.57.08:043][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-13.57.08:044][172]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-13.57.08:074][172]LogAudioMixer: Display: Using Audio Hardware Device DELL U2419H (NVIDIA High Definition Audio)
+[2024.10.15-13.57.08:074][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-13.57.08:074][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-13.57.08:074][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-13.57.08:074][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.10.15-13.57.08:074][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.10.15-13.57.08:076][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.10.15-13.57.08:076][172]LogInit: FAudioDevice initialized with ID 14.
+[2024.10.15-13.57.08:076][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.10.15-13.57.08:076][172]LogAudio: Display: Audio Device (ID: 14) registered with world 'FPSLevel'.
+[2024.10.15-13.57.08:076][172]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.15-13.57.08:079][172]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.15-13.57.08:080][172]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel up for play (max tick rate 0) at 2024.10.15-09.57.08
+[2024.10.15-13.57.08:080][172]LogWorld: Bringing up level for play took: 0.000685
+[2024.10.15-13.57.08:082][172]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.10.15-13.57.08:083][172]PIE: Server logged in
+[2024.10.15-13.57.08:084][172]PIE: Play in editor total start time 0.093 seconds.
+[2024.10.15-13.57.18:784][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-13.57.18:784][253]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-13.57.18:784][253]LogWorld: UWorld::CleanupWorld for FPSLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-13.57.18:784][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-13.57.18:789][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-13.57.18:794][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-13.57.18:806][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-13.57.18:806][253]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.15-13.57.18:806][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.15-13.57.18:807][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.15-13.57.18:814][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.10.15-13.57.18:882][254]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.10.15-13.57.19:851][345]LogDerivedDataCache: C:/Users/di037052/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.055 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 532 files in 877 folders with total size 12 MiB.
+[2024.10.15-13.58.22:406][518]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-13.58.22:406][518]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-13.58.22:406][518]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_24
+[2024.10.15-13.58.24:078][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-13.58.24:078][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-13.58.24:079][673]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_25
+[2024.10.15-13.59.05:718][548]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-13.59.05:723][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-13.59.05:723][548]PIE: New page: PIE session: FPSLevel (Oct 15, 2024, 5:59:05 AM)
+[2024.10.15-13.59.05:763][548]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-13.59.05:765][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002613s)
+[2024.10.15-13.59.05:765][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FPSLevel.FPSLevel to /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel (0.002664s)
+[2024.10.15-13.59.05:779][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.10.15-13.59.05:780][548]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-13.59.05:780][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-13.59.05:782][548]LogAIModule: Creating AISystem for world FPSLevel
+[2024.10.15-13.59.05:782][548]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2024.10.15-13.59.05:782][548]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.10.15-13.59.05:782][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-13.59.05:782][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-13.59.05:782][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-13.59.05:782][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-13.59.05:782][548]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.15-13.59.05:782][548]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-13.59.05:782][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.15-13.59.05:782][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-13.59.05:783][548]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-13.59.05:783][548]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-13.59.05:783][548]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-13.59.05:784][548]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-13.59.05:813][548]LogAudioMixer: Display: Using Audio Hardware Device DELL U2419H (NVIDIA High Definition Audio)
+[2024.10.15-13.59.05:814][548]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-13.59.05:814][548]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-13.59.05:814][548]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-13.59.05:815][548]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.10.15-13.59.05:815][548]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.10.15-13.59.05:816][548]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.10.15-13.59.05:816][548]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.10.15-13.59.05:816][548]LogInit: FAudioDevice initialized with ID 15.
+[2024.10.15-13.59.05:816][548]LogAudio: Display: Audio Device (ID: 15) registered with world 'FPSLevel'.
+[2024.10.15-13.59.05:816][548]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.15-13.59.05:819][548]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.15-13.59.05:820][548]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel up for play (max tick rate 0) at 2024.10.15-09.59.05
+[2024.10.15-13.59.05:820][548]LogWorld: Bringing up level for play took: 0.000727
+[2024.10.15-13.59.05:822][548]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.10.15-13.59.05:824][548]PIE: Server logged in
+[2024.10.15-13.59.05:825][548]PIE: Play in editor total start time 0.102 seconds.
+[2024.10.15-13.59.13:243][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-13.59.13:243][297]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-13.59.13:243][297]LogWorld: UWorld::CleanupWorld for FPSLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-13.59.13:243][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-13.59.13:249][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-13.59.13:253][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-13.59.13:265][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-13.59.13:265][297]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.15-13.59.13:265][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.15-13.59.13:267][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.15-13.59.13:272][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.10.15-13.59.13:340][298]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.10.15-13.59.18:341][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-13.59.18:341][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-13.59.18:341][757]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_26
+[2024.10.15-13.59.19:196][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-13.59.19:196][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-13.59.19:198][835]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_27
+[2024.10.15-13.59.35:083][216]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-13.59.43:818][ 63]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-13.59.44:545][131]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-13.59.50:395][672]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-13.59.59:501][496]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-13.59.59:505][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-13.59.59:505][496]PIE: New page: PIE session: FPSLevel (Oct 15, 2024, 5:59:59 AM)
+[2024.10.15-13.59.59:542][496]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-13.59.59:544][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002013s)
+[2024.10.15-13.59.59:544][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FPSLevel.FPSLevel to /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel (0.002056s)
+[2024.10.15-13.59.59:558][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.10.15-13.59.59:560][496]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-13.59.59:560][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-13.59.59:561][496]LogAIModule: Creating AISystem for world FPSLevel
+[2024.10.15-13.59.59:561][496]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2024.10.15-13.59.59:561][496]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.10.15-13.59.59:561][496]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-13.59.59:561][496]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-13.59.59:561][496]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-13.59.59:561][496]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-13.59.59:561][496]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.15-13.59.59:561][496]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-13.59.59:561][496]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.15-13.59.59:561][496]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-13.59.59:562][496]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-13.59.59:562][496]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-13.59.59:562][496]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-13.59.59:563][496]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-13.59.59:592][496]LogAudioMixer: Display: Using Audio Hardware Device DELL U2419H (NVIDIA High Definition Audio)
+[2024.10.15-13.59.59:593][496]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-13.59.59:593][496]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-13.59.59:593][496]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-13.59.59:593][496]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.10.15-13.59.59:593][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.10.15-13.59.59:595][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.10.15-13.59.59:595][496]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.10.15-13.59.59:595][496]LogInit: FAudioDevice initialized with ID 16.
+[2024.10.15-13.59.59:595][496]LogAudio: Display: Audio Device (ID: 16) registered with world 'FPSLevel'.
+[2024.10.15-13.59.59:595][496]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.15-13.59.59:598][496]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.15-13.59.59:598][496]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel up for play (max tick rate 0) at 2024.10.15-09.59.59
+[2024.10.15-13.59.59:599][496]LogWorld: Bringing up level for play took: 0.000758
+[2024.10.15-13.59.59:600][496]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.10.15-13.59.59:603][496]PIE: Server logged in
+[2024.10.15-13.59.59:604][496]PIE: Play in editor total start time 0.098 seconds.
+[2024.10.15-14.00.02:052][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-14.00.02:052][735]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-14.00.02:052][735]LogWorld: UWorld::CleanupWorld for FPSLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-14.00.02:052][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-14.00.02:057][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-14.00.02:062][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-14.00.02:075][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-14.00.02:075][735]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.15-14.00.02:075][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.15-14.00.02:077][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.15-14.00.02:083][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.10.15-14.00.02:150][736]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.10.15-14.00.23:685][806]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-14.00.23:690][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-14.00.23:690][806]PIE: New page: PIE session: FPSLevel (Oct 15, 2024, 6:00:23 AM)
+[2024.10.15-14.00.23:712][806]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-14.00.23:714][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002017s)
+[2024.10.15-14.00.23:714][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FPSLevel.FPSLevel to /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel (0.002061s)
+[2024.10.15-14.00.23:728][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.10.15-14.00.23:729][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-14.00.23:729][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-14.00.23:729][806]LogAIModule: Creating AISystem for world FPSLevel
+[2024.10.15-14.00.23:729][806]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2024.10.15-14.00.23:729][806]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.10.15-14.00.23:729][806]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-14.00.23:729][806]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-14.00.23:729][806]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-14.00.23:729][806]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-14.00.23:729][806]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.15-14.00.23:729][806]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-14.00.23:729][806]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.15-14.00.23:729][806]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-14.00.23:731][806]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-14.00.23:731][806]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-14.00.23:731][806]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-14.00.23:732][806]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-14.00.23:761][806]LogAudioMixer: Display: Using Audio Hardware Device DELL U2419H (NVIDIA High Definition Audio)
+[2024.10.15-14.00.23:761][806]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-14.00.23:762][806]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-14.00.23:762][806]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-14.00.23:762][806]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.10.15-14.00.23:762][806]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.10.15-14.00.23:764][806]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.10.15-14.00.23:764][806]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.10.15-14.00.23:764][806]LogInit: FAudioDevice initialized with ID 17.
+[2024.10.15-14.00.23:764][806]LogAudio: Display: Audio Device (ID: 17) registered with world 'FPSLevel'.
+[2024.10.15-14.00.23:764][806]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.10.15-14.00.23:767][806]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.15-14.00.23:768][806]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel up for play (max tick rate 0) at 2024.10.15-10.00.23
+[2024.10.15-14.00.23:768][806]LogWorld: Bringing up level for play took: 0.000756
+[2024.10.15-14.00.23:770][806]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.10.15-14.00.23:772][806]PIE: Server logged in
+[2024.10.15-14.00.23:773][806]PIE: Play in editor total start time 0.083 seconds.
+[2024.10.15-14.00.34:452][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-14.00.34:452][890]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-14.00.34:452][890]LogWorld: UWorld::CleanupWorld for FPSLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-14.00.34:452][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-14.00.34:457][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-14.00.34:461][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-14.00.34:475][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-14.00.34:475][890]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.10.15-14.00.34:475][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.10.15-14.00.34:476][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.10.15-14.00.34:482][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.10.15-14.00.34:551][891]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.10.15-14.00.37:619][188]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-14.00.47:525][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-14.00.47:525][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-14.00.47:526][ 52]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_28
+[2024.10.15-14.00.48:554][145]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-14.00.48:554][145]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-14.00.48:555][145]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_29
+[2024.10.15-14.01.35:252][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-14.01.35:252][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-14.01.35:252][461]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_30
+[2024.10.15-14.01.36:024][527]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-14.01.36:024][527]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-14.01.36:025][527]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_31
+[2024.10.15-14.01.53:688][105]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-14.02.19:353][451]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-14.02.19:358][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-14.02.19:358][451]PIE: New page: PIE session: FPSLevel (Oct 15, 2024, 6:02:19 AM)
+[2024.10.15-14.02.19:380][451]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-14.02.19:383][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002153s)
+[2024.10.15-14.02.19:383][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FPSLevel.FPSLevel to /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel (0.002194s)
+[2024.10.15-14.02.19:395][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.10.15-14.02.19:397][451]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-14.02.19:397][451]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-14.02.19:397][451]LogAIModule: Creating AISystem for world FPSLevel
+[2024.10.15-14.02.19:398][451]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2024.10.15-14.02.19:398][451]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.10.15-14.02.19:398][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-14.02.19:398][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-14.02.19:398][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-14.02.19:398][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-14.02.19:398][451]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.15-14.02.19:398][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-14.02.19:398][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.15-14.02.19:398][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-14.02.19:398][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-14.02.19:399][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-14.02.19:399][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-14.02.19:400][451]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-14.02.19:433][451]LogAudioMixer: Display: Using Audio Hardware Device DELL U2419H (NVIDIA High Definition Audio)
+[2024.10.15-14.02.19:434][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-14.02.19:434][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-14.02.19:434][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-14.02.19:434][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.10.15-14.02.19:434][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.10.15-14.02.19:436][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.10.15-14.02.19:436][451]LogInit: FAudioDevice initialized with ID 18.
+[2024.10.15-14.02.19:436][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.10.15-14.02.19:436][451]LogAudio: Display: Audio Device (ID: 18) registered with world 'FPSLevel'.
+[2024.10.15-14.02.19:436][451]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.10.15-14.02.19:440][451]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.15-14.02.19:442][451]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel up for play (max tick rate 0) at 2024.10.15-10.02.19
+[2024.10.15-14.02.19:442][451]LogWorld: Bringing up level for play took: 0.001106
+[2024.10.15-14.02.19:444][451]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.10.15-14.02.19:446][451]PIE: Server logged in
+[2024.10.15-14.02.19:447][451]PIE: Play in editor total start time 0.089 seconds.
+[2024.10.15-14.02.22:121][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-14.02.22:121][709]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-14.02.22:121][709]LogWorld: UWorld::CleanupWorld for FPSLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-14.02.22:121][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-14.02.22:126][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-14.02.22:131][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-14.02.22:143][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-14.02.22:144][709]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.10.15-14.02.22:144][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.10.15-14.02.22:145][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.10.15-14.02.22:152][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.10.15-14.02.22:220][710]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.10.15-14.02.23:824][864]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-14.02.27:164][167]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-14.02.27:169][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-14.02.27:169][167]PIE: New page: PIE session: FPSLevel (Oct 15, 2024, 6:02:27 AM)
+[2024.10.15-14.02.27:211][167]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-14.02.27:213][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002064s)
+[2024.10.15-14.02.27:213][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FPSLevel.FPSLevel to /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel (0.002108s)
+[2024.10.15-14.02.27:227][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.10.15-14.02.27:229][167]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-14.02.27:229][167]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-14.02.27:229][167]LogAIModule: Creating AISystem for world FPSLevel
+[2024.10.15-14.02.27:230][167]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2024.10.15-14.02.27:230][167]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.10.15-14.02.27:230][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-14.02.27:230][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-14.02.27:230][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-14.02.27:230][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-14.02.27:230][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.15-14.02.27:230][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-14.02.27:230][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.15-14.02.27:230][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-14.02.27:230][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-14.02.27:230][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-14.02.27:230][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-14.02.27:232][167]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-14.02.27:261][167]LogAudioMixer: Display: Using Audio Hardware Device DELL U2419H (NVIDIA High Definition Audio)
+[2024.10.15-14.02.27:261][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-14.02.27:261][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-14.02.27:261][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-14.02.27:262][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.10.15-14.02.27:262][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.10.15-14.02.27:264][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.10.15-14.02.27:264][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.10.15-14.02.27:264][167]LogInit: FAudioDevice initialized with ID 19.
+[2024.10.15-14.02.27:264][167]LogAudio: Display: Audio Device (ID: 19) registered with world 'FPSLevel'.
+[2024.10.15-14.02.27:264][167]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.10.15-14.02.27:267][167]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.15-14.02.27:268][167]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel up for play (max tick rate 0) at 2024.10.15-10.02.27
+[2024.10.15-14.02.27:268][167]LogWorld: Bringing up level for play took: 0.000794
+[2024.10.15-14.02.27:270][167]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.10.15-14.02.27:272][167]PIE: Server logged in
+[2024.10.15-14.02.27:273][167]PIE: Play in editor total start time 0.104 seconds.
+[2024.10.15-14.02.35:261][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-14.02.35:261][967]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-14.02.35:261][967]LogWorld: UWorld::CleanupWorld for FPSLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-14.02.35:261][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-14.02.35:266][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-14.02.35:270][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-14.02.35:280][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-14.02.35:280][967]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.10.15-14.02.35:280][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.10.15-14.02.35:282][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.10.15-14.02.35:288][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.10.15-14.02.35:356][968]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.10.15-14.03.12:369][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-14.03.12:369][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-14.03.12:369][449]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_32
+[2024.10.15-14.03.14:542][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-14.03.14:542][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-14.03.14:543][651]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_33
+[2024.10.15-14.03.19:887][106]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-14.03.26:120][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-14.03.26:120][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-14.03.26:121][631]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_34
+[2024.10.15-14.03.34:217][390]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-14.03.34:217][390]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.10.15-14.03.34:217][390]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_35
+[2024.10.15-14.03.35:108][471]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-14.04.48:269][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-14.04.48:270][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-14.04.48:270][183]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_36
+[2024.10.15-14.04.49:140][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-14.04.49:140][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.10.15-14.04.49:141][266]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp as actor: StaticMeshActor /Game/Levels/FPSLevel.FPSLevel:PersistentLevel.StaticMeshActor_37
+[2024.10.15-14.04.57:318][  2]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-14.05.17:392][914]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.10.15-14.06.04:034][336]Cmd: TRANSACTION UNDO
+[2024.10.15-14.06.04:034][336]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.15-14.06.04:357][341]Cmd: TRANSACTION UNDO
+[2024.10.15-14.06.04:357][341]LogEditorTransaction: Undo Move Elements
+[2024.10.15-14.06.04:977][386]Cmd: TRANSACTION UNDO
+[2024.10.15-14.06.04:977][386]LogEditorTransaction: Undo Scale Elements
+[2024.10.15-14.06.53:548][948]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-14.06.53:554][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-14.06.53:554][948]PIE: New page: PIE session: FPSLevel (Oct 15, 2024, 6:06:53 AM)
+[2024.10.15-14.06.53:597][948]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-14.06.53:600][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002353s)
+[2024.10.15-14.06.53:600][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FPSLevel.FPSLevel to /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel (0.002397s)
+[2024.10.15-14.06.53:614][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.10.15-14.06.53:615][948]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-14.06.53:615][948]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-14.06.53:615][948]LogAIModule: Creating AISystem for world FPSLevel
+[2024.10.15-14.06.53:617][948]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2024.10.15-14.06.53:617][948]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.10.15-14.06.53:617][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-14.06.53:617][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-14.06.53:617][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-14.06.53:617][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-14.06.53:617][948]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.15-14.06.53:617][948]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-14.06.53:617][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.15-14.06.53:617][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-14.06.53:617][948]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-14.06.53:617][948]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-14.06.53:617][948]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-14.06.53:619][948]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-14.06.53:652][948]LogAudioMixer: Display: Using Audio Hardware Device DELL U2419H (NVIDIA High Definition Audio)
+[2024.10.15-14.06.53:653][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-14.06.53:653][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-14.06.53:653][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-14.06.53:654][948]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.10.15-14.06.53:654][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.10.15-14.06.53:655][948]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.10.15-14.06.53:655][948]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.10.15-14.06.53:655][948]LogInit: FAudioDevice initialized with ID 20.
+[2024.10.15-14.06.53:655][948]LogAudio: Display: Audio Device (ID: 20) registered with world 'FPSLevel'.
+[2024.10.15-14.06.53:655][948]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.10.15-14.06.53:658][948]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.15-14.06.53:659][948]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FPSLevel.FPSLevel up for play (max tick rate 0) at 2024.10.15-10.06.53
+[2024.10.15-14.06.53:659][948]LogWorld: Bringing up level for play took: 0.000932
+[2024.10.15-14.06.53:661][948]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.10.15-14.06.53:663][948]PIE: Server logged in
+[2024.10.15-14.06.53:664][948]PIE: Play in editor total start time 0.11 seconds.
+[2024.10.15-14.07.59:697][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-14.07.59:697][905]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_FPSLevel
+[2024.10.15-14.07.59:697][905]LogWorld: UWorld::CleanupWorld for FPSLevel, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-14.07.59:697][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-14.07.59:703][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-14.07.59:706][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-14.07.59:719][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-14.07.59:720][905]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.10.15-14.07.59:720][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.10.15-14.07.59:722][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.10.15-14.07.59:728][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.10.15-14.07.59:796][906]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.10.15-14.08.26:860][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.10.15-14.08.26:871][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/FPSLevel_Auto4
+[2024.10.15-14.08.26:872][542]LogSavePackage: Moving '../../../../../../Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Saved/FPSLevel_Auto432BD5F254108F444FD621BA536631DCE.tmp' to '../../../../../../Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Saved/Autosaves/Game/Levels/FPSLevel_Auto4.umap'
+[2024.10.15-14.08.26:873][542]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Saved/Autosaves/Game/Levels/FPSLevel_Auto4.umap is in the /Temp path, will not scan.
+[2024.10.15-14.08.26:873][542]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Levels/FPSLevel_Auto4 is in the /Temp path, will not scan.
+[2024.10.15-14.08.26:873][542]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Levels/FPSLevel_Auto4 is in the /Temp path, will not scan.
+[2024.10.15-14.08.26:873][542]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/FPSLevel' took 0.027
+[2024.10.15-14.08.26:873][542]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2024.10.15-14.08.26:874][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.10.15-14.08.26:874][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.10.15-14.08.26:882][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4
+[2024.10.15-14.08.26:882][542]LogSavePackage: Moving '../../../../../../Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Saved/BP_FirstPersonCharacter_Auto4CC389920452C27C589404EBB258868DB.tmp' to '../../../../../../Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4.uasset'
+[2024.10.15-14.08.26:883][542]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.10.15-14.11.36:288][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-14.11.36:379][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.15-14.11.36:389][482]LogSavePackage: Moving output files for package: /Game/Levels/FPSLevel
+[2024.10.15-14.11.36:390][482]LogSavePackage: Moving '../../../../../../Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Saved/FPSLevelF79D78A2428CC169C074CCB8FE440520.tmp' to '../../../../../../Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Levels/FPSLevel.umap'
+[2024.10.15-14.11.36:396][482]LogFileHelpers: Saving map 'FPSLevel' took 0.038
+[2024.10.15-14.11.36:404][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.30 sec)
+[2024.10.15-14.11.36:406][482]AssetCheck: New page: Asset Save: FPSLevel
+[2024.10.15-14.11.36:406][482]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/FPSLevel.FPSLevel

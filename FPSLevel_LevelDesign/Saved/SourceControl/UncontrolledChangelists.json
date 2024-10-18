@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/anime/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Art_import/standardSurface1.uasset",
+				"C:/Users/anime/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Art_import/maze_mat.uasset",
+				"C:/Users/anime/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Art_import/maze.uasset",
+				"C:/Users/anime/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Art_import/textures/maze_1001_BaseColor.uasset",
+				"C:/Users/anime/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Art_import/textures/maze_1001_Normal.uasset",
+				"C:/Users/anime/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Art_import/textures/maze_1001_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Levels/FPSLevel.umap",
+				"C:/Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/LevelPrototyping/Materials/LandscapeHole.uasset",
+				"C:/Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Levels/_GENERATED/di037052/Box_5C22F2FD.uasset",
+				"C:/Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Levels/_GENERATED/di037052/Box_7E124E29.uasset",
+				"C:/Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Levels/_GENERATED/di037052/Box_806D5AA0.uasset",
+				"C:/Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Levels/_GENERATED/di037052/Rectangle_0774879C.uasset",
+				"C:/Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/Levels/_GENERATED/di037052/Rectangle_80108F20.uasset",
+				"C:/Users/di037052/Documents/GitHub/FPS_Level/FPSLevel_LevelDesign/Content/LevelPrototyping/Meshes/SM_Cube.uasset"
+			]
+		}
+	]
+}
